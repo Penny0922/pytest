@@ -1,0 +1,110 @@
+{
+    "msg": "success",
+    "code": 0,
+    "allUnAbolishedKpiInfo": [
+      {
+        "kpiId": 1,
+        "unitName": "各部门",
+        "departmentName": "安全监察室(1)",
+        "primaryClassId": 1,
+        "primaryClassName": "安全指标",
+        "secondaryClassId": 1,
+        "secondaryClassName": "行车安全、生产安全、旅客安全、人身安全、路外安全",
+        "content": "较大及以上铁路交通事故，或高铁行车、旅客列车行车一般A类铁路交通事故，或造成旅客死亡的铁路交通事故，负全部或主要责任。",
+        "standard": "所有部门一票否决。",
+        "oneVote": 1,
+        "quantified": 0
+      },
+      {
+        "kpiId": 2,
+        "unitName": "各部门",
+        "departmentName": "安全监察室(1)",
+        "primaryClassId": 1,
+        "primaryClassName": "安全指标",
+        "secondaryClassId": 1,
+        "secondaryClassName": "行车安全、生产安全、旅客安全、人身安全、路外安全",
+        "content": "其他行车A类铁路交通事故，或高铁行车、旅客列车行车一般B类铁路交通事故，负全部或主要责任。",
+        "standard": "责任部门减15分，安监室每件减10分，其他部门每件减5分。",
+        "oneVote": 0,
+        "quantified": 0
+      },
+      {
+        "kpiId": 3,
+        "unitName": "各部门",
+        "departmentName": "安全监察室(1)",
+        "primaryClassId": 1,
+        "primaryClassName": "安全指标",
+        "secondaryClassId": 1,
+        "secondaryClassName": "行车安全、生产安全、旅客安全、人身安全、路外安全",
+        "content": "其他行车一般B类责任铁路交通事故，或高铁行车、旅客列车行车一般C类责任铁路交通事故，负全部或主要责任。",
+        "standard": "责任部门每件减10分，安监室每件减5分，其他部门每件减3分。",
+        "oneVote": 0,
+        "quantified": 0
+      },
+      {
+        "kpiId": 4,
+        "unitName": "各部门",
+        "departmentName": "安全监察室(1)",
+        "primaryClassId": 1,
+        "primaryClassName": "安全指标",
+        "secondaryClassId": 1,
+        "secondaryClassName": "行车安全、生产安全、旅客安全、人身安全、路外安全",
+        "content": "其他一般C类铁路交通事故，负全部或主要责任。",
+        "standard": "责任部门每件减3分。",
+        "oneVote": 0,
+        "quantified": 0
+      },
+      {
+        "kpiId": 5,
+        "unitName": "各部门",
+        "departmentName": "安全监察室(1)",
+        "primaryClassId": 1,
+        "primaryClassName": "安全指标",
+        "secondaryClassId": 1,
+        "secondaryClassName": "行车安全、生产安全、旅客安全、人身安全、路外安全",
+        "content": "路外伤亡事故死亡人数，以本年度下达的系统控制指标进行考核。",
+        "standard": "每超过1人责任部门减0.5分。",
+        "oneVote": 0,
+        "quantified": 0
+      },
+      {
+        "kpiId": 6,
+        "unitName": "各部门",
+        "departmentName": "安全监察室(1)",
+        "primaryClassId": 1,
+        "primaryClassName": "安全指标",
+        "secondaryClassId": 1,
+        "secondaryClassName": "行车安全、生产安全、旅客安全、人身安全、路外安全",
+        "content": "路外伤亡事故死亡人数，动车组运行区段局发生路外伤亡事故。",
+        "standard": "每死亡1人责任部门减0.5分。",
+        "oneVote": 0,
+        "quantified": 0
+      },
+      {
+        "kpiId": 7,
+        "unitName": "各部门",
+        "departmentName": "安全监察室(2),客运部(1)",
+        "primaryClassId": 1,
+        "primaryClassName": "安全指标",
+        "secondaryClassId": 1,
+        "secondaryClassName": "行车安全、生产安全、旅客安全、人身安全、路外安全",
+        "content": "责任旅客伤亡，一次死亡10人（含）以上。",
+        "standard": "所有部门一票否决。",
+        "oneVote": 1,
+        "quantified": 0
+      },
+      {
+        "kpiId": 8,
+        "unitName": "各部门",
+        "departmentName": "安全监察室(2),客运部(1)",
+        "primaryClassId": 1,
+        "primaryClassName": "安全指标",
+        "secondaryClassId": 1,
+        "secondaryClassName": "行车安全、生产安全、旅客安全、人身安全、路外安全",
+        "content": "责任旅客伤亡，一次死亡3人（含）至9人（含）。",
+        "standard": "责任部门一票否决，其他部门每件减10分。",
+        "oneVote": 1,
+        "quantified": 0
+      }
+  ]
+  }
